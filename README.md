@@ -1,5 +1,5 @@
 # corona-pluto
-Julia Pluto notebook to analyze COVID-19 in South Korea
+Julia Pluto notebook to analyze COVID-19 (코로나19) in South Korea
 
 ![Preview Image](/img/screenshot01.png)
 
